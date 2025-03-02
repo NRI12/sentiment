@@ -1,0 +1,5 @@
+tf-keras
+streamlit
+numpy
+pandas
+gensim
